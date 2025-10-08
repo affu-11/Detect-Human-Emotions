@@ -64,3 +64,7 @@ NLTK/Spacy – for text preprocessing.
 scikit-learn – for evaluation metrics.
 
 Matplotlib/Seaborn – for visualization.
+
+# Conclusion:
+Detects Human Emotion Based onthe text
+
